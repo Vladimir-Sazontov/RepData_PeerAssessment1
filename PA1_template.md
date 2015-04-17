@@ -176,7 +176,7 @@ processed_data <- raw_data
 processed_data$steps <- fill_steps
 ```
 
-Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day.
+Make a histogram of the total number of steps taken each day.
 
 
 ```r
